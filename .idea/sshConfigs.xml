@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="uc2.scc.kit.edu" id="37c80f81-9b8e-4eea-bc96-df446e13bbe7" port="22" nameFormat="DESCRIPTIVE" username="ukemo" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

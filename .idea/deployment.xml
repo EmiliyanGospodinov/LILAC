@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="bwuni-cluster" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="bwuni-cluster">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/kit/stud/ukemo/rl/supplement/code" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

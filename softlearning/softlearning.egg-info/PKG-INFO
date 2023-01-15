@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: softlearning
+Version: 0.0.1
+Summary: Softlearning is a deep reinforcement learning toolbox for training maximum entropy policies in continuous domains.
+Home-page: https://github.com/rail-berkeley/softlearning
+Author: Kristian Hartikainen
+Author-email: kristian.hartikainen@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: softlearning,soft-actor-critic,sac,soft-q-learning,sql,machine-learning,reinforcement-learning,deep-learning,python
+Platform: UNKNOWN

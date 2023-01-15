@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4119d404-c5e7-4584-a20f-a14c57a06a3f" name="bwuni-cluster" url="http://uc2.scc.kit.edu">
+        <fileTransfer accessType="SFTP" host="uc2.scc.kit.edu" port="22" sshConfigId="37c80f81-9b8e-4eea-bc96-df446e13bbe7" sshConfig="ukemo@uc2.scc.kit.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+[console_scripts]
+softlearning = softlearning.scripts.console_scripts:main
+
